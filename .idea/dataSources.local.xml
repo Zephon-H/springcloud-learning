@@ -14,6 +14,9 @@
           <node kind="schema">
             <name qname="@" />
             <name qname="db_cloud" />
+            <name qname="seata_order" />
+            <name qname="seata_storage" />
+            <name qname="seata_account" />
           </node>
         </introspection-scope>
       </schema-mapping>
